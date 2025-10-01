@@ -12,5 +12,3 @@ def leed_nums(nums):
 
 nums = [int(x) for x in input().split()]
 print(*leed_nums(nums))
-
-
